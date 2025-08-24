@@ -12,3 +12,9 @@ __pycache__/
 
 # IDE-specific files (PyCharm)
 .idea/
+
+# Environment variables
+.env
+
+# Temporary files
+condaenv.oiho4y2f.requirements.txt
